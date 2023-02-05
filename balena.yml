@@ -14,7 +14,7 @@ assets:
       url: >-
         https://raw.githubusercontent.com/mpous/ming/master/logo.png
 data:
-  defaultDeviceType: raspberrypi4-64
+  defaultDeviceType: raspberrypi3-64
   supportedDeviceTypes:
     - raspberrypi3
     - raspberrypi3-64
