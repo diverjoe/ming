@@ -33,7 +33,7 @@ You have two options here:
 
 You can deploy this project to a new balenaCloud application in one click using the button below:
 
-[![](https://balena.io/deploy.svg)](https://dashboard.balena-cloud.com/deploy?repoUrl=https://github.com/mpous/ming)
+[![](https://balena.io/deploy.svg)](https://dashboard.balena-cloud.com/deploy?repoUrl=https://github.com/diverjoe/ming)
 
 Or, you can create an application in your balenaCloud dashboard and balena push this code to it the traditional way.
 
